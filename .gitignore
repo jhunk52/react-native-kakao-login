@@ -45,7 +45,7 @@ buck-out/
 \.buckd/
 *.keystore
 
-index.js
+# index.js
 index.d.ts
 index.js.flow
 
